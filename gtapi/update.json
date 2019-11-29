@@ -1,0 +1,18 @@
+{
+  "result": {
+    "version_name": "9.0.0",
+    "version_code": "101",
+    "tips": "",
+    "cache_refresh_days": 1,
+    "ad_mills": 20000,
+    "ad_banner_days": 15,
+    "ad_done_days": 30,
+    "ad_restart_days": 30,
+    "download_app_url": "",
+    "googleplay_url": "",
+    "screen_ad_open": 0,
+    "screen_ad": ""
+  },
+  "code": "0",
+  "message": ""
+}
