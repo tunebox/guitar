@@ -13,6 +13,7 @@
     "download_app_url": "",
     "googleplay_url": "",
     "screen_ad_open": 0,
+    “screen_ad_mills": 5000,
     "screen_ad": ""
   },
   "code": "0",
