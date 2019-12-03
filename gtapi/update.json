@@ -9,6 +9,7 @@
     "ad_done_days": 30,
     "ad_restart_days": 30,
     "ad_restart_open": 1,
+    "ad_all_open": 1,
     "download_app_url": "",
     "googleplay_url": "",
     "screen_ad_open": 0,
