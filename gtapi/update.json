@@ -8,13 +8,13 @@
     "ad_mills": 20000,
     "ad_banner_days": 15,
     "ad_done_days": 30,
-    "ad_restart_days": 30,
     "ad_restart_open": true,
-    "download_app_url": "",
-    "googleplay_url": "",
+    "ad_restart_days": 30,
     "screen_ad_open": false,
     "screen_ad_mills": 5000,
-    "screen_ad": ""
+    "screen_ad": "",
+    "download_app_url": "",
+    "googleplay_url": ""
   },
   "code": 0,
   "message": ""
