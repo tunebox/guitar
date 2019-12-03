@@ -12,7 +12,12 @@
     "ad_restart_days": 30,
     "screen_ad_open": false,
     "screen_ad_mills": 5000,
-    "screen_ad": "",
+    "screen_ad": {
+      "img": "https://tunebox.github.io/guitar/gtapi/img/2019_12_3.JPG",
+      "link": "https://tunebox.github.io/guitar/gtapi/img/2019_12_3.JPG",
+      "type": 1,
+      "title": "ad"
+    },
     "download_app_url": "",
     "googleplay_url": ""
   },
