@@ -1,0 +1,28 @@
+{
+  "result": {
+    "version_name": "9.0.2",
+    "version_code": 102,
+    "tips": "",
+    "cache_refresh_days": 0,
+    "ad_all_open": true,
+    "ad_banner_open": true,
+    "ad_mills": 20000,
+    "ad_banner_days": 15,
+    "ad_done_open": false,
+    "ad_done_days": 30,
+    "ad_restart_open": false,
+    "ad_restart_days": 30,
+    "screen_ad_open": false,
+    "screen_ad_mills": 5000,
+    "screen_ad": {
+      "img": "",
+      "link": "",
+      "type": 1,
+      "title": "ad"
+    },
+    "download_app_url": "",
+    "googleplay_url": ""
+  },
+  "code": 0,
+  "message": ""
+}
