@@ -6,7 +6,7 @@
     "cache_refresh_days": 0,
     "ad_all_open": true,
     "ad_banner_open": true,
-    "ad_mills": 12000,
+    "ad_mills": 8000,
     "ad_banner_days": 15,
     "ad_done_open": false,
     "ad_done_days": 30,
