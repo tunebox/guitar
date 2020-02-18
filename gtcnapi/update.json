@@ -4,7 +4,7 @@
     "version_code": 102,
     "tips": "",
     "cache_refresh_days": 0,
-    "ad_all_open": true,
+    "ad_all_open": false,
     "ad_banner_open": true,
     "ad_mills": 8000,
     "ad_banner_days": 15,
