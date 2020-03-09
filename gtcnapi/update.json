@@ -9,7 +9,7 @@
     "ad_mills": 8000,
     "ad_banner_days": 15,
     "ad_done_open": true,
-    "ad_done_days": 15,
+    "ad_done_days": 30,
     "ad_restart_open": true,
     "ad_restart_days": 30,
     "screen_ad_open": false,
