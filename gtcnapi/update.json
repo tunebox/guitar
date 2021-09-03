@@ -12,7 +12,7 @@
     "ad_done_days": 30,
     "ad_restart_open": false,
     "ad_restart_days": 30,
-    "ad_splash_open": true,
+    "ad_splash_open": false,
     "ad_splash_days": 7,
     "screen_ad_open": false,
     "screen_ad_mills": 5000,
