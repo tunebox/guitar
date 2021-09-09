@@ -5,6 +5,8 @@
     "tips": "新版9.0.15发布（6M）。优化调音；修复bug",
     "cache_refresh_days": 0,
     "ad_all_open": true,
+    "ad_head_open": true,	
+    "ad_recommend_open": true,
     "ad_banner_open": true,
     "ad_mills": 8000,
     "ad_banner_days": 15,
@@ -22,6 +24,7 @@
       "type": 1,
       "title": "ad"
     },
+    "download_app_open": true,
     "download_app_url": "",
     "googleplay_url": ""
   },
