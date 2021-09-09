@@ -24,7 +24,7 @@
       "type": 1,
       "title": "ad"
     },
-    "download_app_open": true,
+    "download_app_open": false,
     "download_app_url": "https://tunebox.github.io/guitar/gtcnapi/app.apk",
     "googleplay_url": ""
   },
