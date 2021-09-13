@@ -10,6 +10,7 @@
     "ad_banner_open": true,
     "ad_mills": 8000,
     "ad_banner_days": 15,
+    "ad_reward_banner_open": false,
     "ad_done_open": true,
     "ad_done_days": 30,
     "ad_restart_open": false,
